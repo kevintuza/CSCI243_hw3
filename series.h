@@ -4,13 +4,13 @@
  *        STARTER for Homework 3: this multi-file program has bugs to find with
  *        gdb. The assignment guarantees at most 1000 values.
  *
- * @author Dr. Abeer Ahmad <abavcs@rit.edu>
+ * @author Kevin Tuza <kat7754@rit.edu>
  * @course CSCI-243 Homework 3 (Debugging with gdb), supplied starter
  */
 #ifndef SERIES_H
 #define SERIES_H
 
-#define SERIES_CAP 8   /* the assignment guarantees N <= 1000 values */
+#define SERIES_CAP 1000   /* the assignment guarantees N <= 1000 values */
 
 /** A sequence of up to SERIES_CAP integers, in insertion order. */
 typedef struct {
