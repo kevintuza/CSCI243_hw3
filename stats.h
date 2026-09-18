@@ -3,7 +3,7 @@
  * @brief Summary statistics over a Series of integers (see series.h).
  *        STARTER for Homework 3 (the bugs are in stats.c, not here).
  *
- * @author Dr. Abeer Ahmad <abavcs@rit.edu>
+ * @author Kevin Tuza <kat7754@rit.edu>
  * @course CSCI-243 Homework 3 (Debugging with gdb), supplied starter
  */
 #ifndef STATS_H
