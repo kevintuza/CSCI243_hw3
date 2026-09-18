@@ -1,0 +1,23 @@
+commit d46059cd4326abe360b0142690560d0fde29f906
+Author: Kevin Tuza <kat7754@rit.edu>
+Date:   Fri Sep 18 19:40:11 2026 -0400
+
+    Fixed initialization and median calculation in stats.c stats.h
+
+commit 6f2cb250f849b74108c5bd9e4136d7bbb72508fc
+Author: Kevin Tuza <kat7754@rit.edu>
+Date:   Fri Sep 18 19:23:35 2026 -0400
+
+    Fixed overflow in series and off-by-one error in analyze
+
+commit 7d5983f33ef55b04dfce2bd9fa5ba7f809fa1bfd
+Author: Kevin Tuza <kat7754@rit.edu>
+Date:   Fri Sep 18 16:34:14 2026 -0400
+
+    Initial commit: supplied buggy analyze program
+
+commit b939bcb22a5919b33eafb42cda00f80025abdef7
+Author: kevintuza <kevin1780tuza@gmail.com>
+Date:   Fri Sep 18 16:31:21 2026 -0400
+
+    Initial commit
